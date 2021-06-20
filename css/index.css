@@ -238,3 +238,10 @@ div.ex2 {
 .constant{
 	padding: 50px;
 }
+.w-100{
+	padding: 20px;
+	height: 80vh;
+	object-fit: contain;
+	object-position: center;	
+	padding-bottom: 0px;
+}
