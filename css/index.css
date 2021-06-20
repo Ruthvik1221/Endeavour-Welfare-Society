@@ -12,7 +12,11 @@
 	margin-left:auto;
   	margin-right: auto;
 }
-
+.center_title_about{
+	text-align: center;
+	margin-top: 20px;
+	margin-bottom: 25px;
+}
 
 body{
 	background-color: #282C2F/*jetblack-#343434 */ /*#696969*/;
@@ -55,8 +59,8 @@ margin-top: 50px;
 	color:white;
 }
 hr{
-	border-style:dotted none none;
-	border-width: 15px;
+	border-style:dashed none none;
+	border-width: 10px;
 	border-spacing: 2px;
 	border-color:white;
 	width:75px;
@@ -96,7 +100,7 @@ width: 60%;
 	color: deepskyblue;
 }
 .bg_class_2{
-	background-color: #323639;
+	background-color:#323639;
 	border-style: solid;
 	border-color: deepskyblue;
 	margin: auto;
@@ -208,4 +212,17 @@ h4{
 }
 .botton_color{
 	color: powderblue;
+}
+.flex-container {
+  display: flex;
+  flex-direction: row;
+}
+.text_color{
+	color: powderblue;
+}
+h5{
+	color: deepskyblue;
+}
+.button:hover {
+  
 }
