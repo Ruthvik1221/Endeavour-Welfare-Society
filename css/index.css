@@ -1,5 +1,6 @@
-.navbar_size{
-	height:85px;
+
+.margin_auto{
+	margin: auto;
 }
 .title{
 	font-size: 30px;
@@ -223,6 +224,17 @@ h4{
 h5{
 	color: deepskyblue;
 }
-.button:hover {
-  
+
+div.ex1 {
+  width: 500px;
+  margin: auto;
+  border: 3px solid #73AD21;
+}
+div.ex2 {
+  max-width: 600px;
+  margin: auto;
+  border: 3px solid #73AD21;
+}
+.constant{
+	padding: 50px;
 }
